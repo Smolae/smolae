@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Elan!
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username) -->
+### About Me:
+* 🏫 Education: BS in Computer Science and Information Technology with a minor in Cognitive Science (exp. May 2025). MSIT focusing in Cybersecurity (exp. May 2026).
+* 📫 How to reach me: elantal@gmail.com
+* 💡 Fun fact: I learned to code at 8 years old
+* 🤝 Connect with me: https://www.linkedin.com/in/elan-smolar-eisenberg/
+### Languages/Tools:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,docker,haskell,java,jquery,kali,latex,linux,mongodb,mysql,nodejs,php,postgres,py,react)](https://skillicons.dev)
 
 <!--
 **Smolae/smolae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
